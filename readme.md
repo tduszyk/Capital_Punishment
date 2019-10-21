@@ -1,6 +1,6 @@
 # Capital Punishment in the US
 
-## Applying ML to find out if changes how change of rules changed application of Capital Punishment.
+## Applying ML to find out if change of rules applied by the Supreme Court, changed application of Capital Punishment.
 
 Pre-1972: Application of death penalty for all sorts of crimes that are not the most serious.  Judges could unilaterally impose capital punishment discretionarily (racial bias).
 
